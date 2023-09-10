@@ -9,7 +9,7 @@ An exploratory data analysis (EDA) project analyzing Airbnb listings data for a 
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
+- [Installation](#getting-started)
 - [Contributing](#contributing)
 
 ## Project Overview
@@ -35,7 +35,7 @@ The dataset used for this analysis was obtained from [Airbnb](http://insideairbn
 
 In this project, an exploratory data analysis of Airbnb listings data was conducted to uncover insights and trends related to price, availability, location, and property types. Visualizations and statistical analyses were employed to provide valuable insights for potential business decisions or further research.
 
-## Getting Started
+## Installation
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
