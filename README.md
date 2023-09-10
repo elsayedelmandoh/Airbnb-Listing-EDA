@@ -9,6 +9,7 @@ An exploratory data analysis (EDA) project analyzing Airbnb listings data for a 
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
 - [Installation](#getting-started)
 - [Contributing](#contributing)
 
