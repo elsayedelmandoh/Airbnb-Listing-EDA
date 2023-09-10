@@ -10,7 +10,7 @@ An exploratory data analysis (EDA) project analyzing Airbnb listings data for a 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Conclusion](#conclusion)
 - [Getting Started](#getting-started)
-- [Installation](#getting-started)
+- [Installation](#installation)
 - [Contributing](#contributing)
 
 ## Project Overview
@@ -41,6 +41,8 @@ In this project, an exploratory data analysis of Airbnb listings data was conduc
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Open and run the Jupyter Notebook to show the analysis.
+
+## Installation
 
 ## Contributing
 
