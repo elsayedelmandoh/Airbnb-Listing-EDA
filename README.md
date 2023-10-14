@@ -11,6 +11,7 @@ An exploratory data analysis (EDA) project analyzing Airbnb listings data for a 
 - [Conclusion](#conclusion)
 - [Installation](#installation)
 - [Contributing](#contributing)
+- [Author](#author)
 
 ## Project Overview
 
@@ -44,3 +45,7 @@ In this project, an exploratory data analysis of Airbnb listings data was conduc
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## Author
+  Elsayed Elmandoh : [Linkedin](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/).
+
