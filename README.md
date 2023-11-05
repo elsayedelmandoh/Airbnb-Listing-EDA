@@ -39,8 +39,7 @@ In this project, an exploratory data analysis of Airbnb listings data was conduc
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Open and run the Jupyter Notebook to show the analysis.
+2. Open and run the Jupyter Notebook to show the analysis.
 
 ## Contributing
 
