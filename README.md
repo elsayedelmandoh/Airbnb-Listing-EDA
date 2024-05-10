@@ -43,8 +43,10 @@ In this project, an exploratory data analysis of Airbnb listings data was conduc
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. 
 
 ## Author
-  Elsayed Elmandoh : [Linkedin](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/).
 
+This repository is maintained by Elsayed Elmandoh, an AI Engineer passionate. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://twitter.com/elsayedelmandoo) for updates and discussions related to Data Analysis.
+
+Happy coding and Data Analysis!
